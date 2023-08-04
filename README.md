@@ -1,6 +1,4 @@
 <h2>Hello👋, folks!</h2>
-[![Gmail Badge](https://img.shields.io/badge/asepsyafnur@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:asepsyafnur@gmail.com)](mailto:asepsyafnur@gmail.com) 
-
 <p><em>Currently i am open to any opportunity especially in IT as Web Developer</em></p>
 <img align="right" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="250px" />
 
@@ -16,7 +14,7 @@
 ![](https://img.shields.io/badge/PostgreSQL-14-blue?style=flat&logo=postgresql&logoColor=white)
 
 ## &#x1f4c8; GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asepsyafnur&hide=php,typescript,javascript,css,scss,html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asepsyafnur&theme=tokyonight)
 
 
 <!--
