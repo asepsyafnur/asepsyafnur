@@ -13,7 +13,8 @@
 ![](https://img.shields.io/badge/PostgreSQL-14-blue?style=flat&logo=postgresql&logoColor=white)
 
 ## &#x1f4c8; GitHub Stats
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=asepsyafnur&theme=tokyonight)](https://github.com/asepsyafnur/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=asepsyafnur&theme=tokyonight&show_icons=true)](https://github.com/asepsyafnur/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=asepsyafnur&theme=tokyonight&show_icons=true)](https://github.com/asepsyafnur)
 
 
 
