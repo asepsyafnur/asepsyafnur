@@ -1,4 +1,7 @@
-### Hi there 👋
+<h2>Hi 👋, I'm Asep</h2>
+<p><em>Currently i am open to any opportunity especially in IT as Web Developer</em></p>
+<img align="right" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="250px" />
+
 
 <!--
 **asepsyafnur/asepsyafnur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
