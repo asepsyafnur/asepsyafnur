@@ -1,4 +1,4 @@
-<h2>Hi 👋, I'm Asep</h2>
+<h2>Hello👋, folks!</h2>
 <p><em>Currently i am open to any opportunity especially in IT as Web Developer</em></p>
 <img align="right" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="250px" />
 
