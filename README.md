@@ -5,10 +5,10 @@
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-blue?style=flat&logo=visual-studio-code&logoColor=white)
 ![](https://img.shields.io/badge/PHP-8.0-informational?style=flat&logo=php&logoColor=white&color=777bb4)
+![](https://img.shields.io/badge/Laravel-10.x-red?style=flat&logo=laravel&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/React-17.0.2-blue?style=flat&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/Angular-12-red?style=flat&logo=angular&logoColor=white)
-![](https://img.shields.io/badge/Laravel-10.x-red?style=flat&logo=laravel&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-8.0-blue?style=flat&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-14-blue?style=flat&logo=postgresql&logoColor=white)
 
