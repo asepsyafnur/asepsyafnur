@@ -1,6 +1,6 @@
 <h2>Hello👋, folks!</h2>
 <p><em>Currently i am open to any opportunity especially in IT as Web Developer</em></p>
-<img align="right" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="250px" />
+<img align="right" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="250px" style="margin-top:1rem;" />
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-blue?style=flat&logo=visual-studio-code&logoColor=white)
